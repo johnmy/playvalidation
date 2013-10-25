@@ -7,10 +7,11 @@ import java.util.*;
 
 public class Application extends Controller {
 
+	// i am v2 too
     public static void index() {
         render();
     }
     
-    //mmmmmmm
+    //i am v2
     
 }
